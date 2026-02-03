@@ -7,6 +7,7 @@
 define([], () => {
   const pageInit = (context) => {
     // Added Comments for test
+    // Added New comments to check
     alert('Hello, World!');
   };    
     return {
